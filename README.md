@@ -8,6 +8,8 @@ You'll need Python3 in order to run this file.
 ## Usage
 
 If you want to add users/passwords, go to line [11](https://github.com/Falcn8/login/blob/main/loginnnn.py#L11) and [12](https://github.com/Falcn8/login/blob/main/loginnnn.py#L12) to manage users/passwords.
+
+To run this file, just do the following in command prompt or double click the file.
 ```
 cd Downloads
 cd login
