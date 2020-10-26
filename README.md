@@ -7,7 +7,7 @@ You'll need Python3 in order to run this file.
 
 ## Usage
 
-```python
+```
 cd Downloads
 cd login
 python login.py
