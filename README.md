@@ -7,10 +7,11 @@ You'll need Python3 in order to run this file.
 
 ## Usage
 
+If you want to add users/passwords, go to line 11 and 12 to manage users/passwords.
 ```
 cd Downloads
 cd login
-python login.py
+python loginnnn.py
 ```
 
 ## Contributing
