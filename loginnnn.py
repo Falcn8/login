@@ -8,8 +8,8 @@ clear()
 
 username = input(Fore.LIGHTCYAN_EX + "Login: >> " + Fore.YELLOW)
 
-users = ["test", "h3x"]
-pas = ["test", "h3xvg0n"]
+users = ["test", "Falcn8"]
+pas = ["test", "Falcn8"]
 
 if username in users:
     print(Fore.WHITE + f"Welcome back, {username}.")
